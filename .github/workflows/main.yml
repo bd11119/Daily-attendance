@@ -3,7 +3,7 @@ name: 每日疫情打卡
 on:
   push:
   schedule:
-    - cron: '53 16 * * *'
+    - cron: '05 17 * * *'
 
 jobs:
   attendance:
