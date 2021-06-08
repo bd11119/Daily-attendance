@@ -5,7 +5,7 @@ on:
     branches: 
       - main
   schedule:
-    - cron: '30 14 * * *'
+    - cron: '33 15 * * *'
 
 jobs:
   attendance:
